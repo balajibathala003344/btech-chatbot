@@ -3,3 +3,5 @@ faiss-cpu
 sentence-transformers
 numpy
 google-genai
+pypdf
+requests==2.32.5
